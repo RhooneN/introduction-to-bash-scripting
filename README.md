@@ -76,9 +76,9 @@ Founded in 2012 with offices in New York and Cambridge, MA, DigitalOcean offers 
 
 For more information, please visit [https://www.digitalocean.com](https://www.digitalocean.com) or follow [@digitalocean](https://twitter.com/digitalocean) on Twitter.
 
-If you are new to DigitalOcean, you can get a free $100 credit and spin up your own servers via this referral link here:
+If you are new to DigitalOcean, you can get a free $200 credit and spin up your own servers via this referral link here:
 
-[Free $100 Credit For DigitalOcean](https://m.do.co/c/2a9bba940f39)
+[Free $200 Credit For DigitalOcean](https://m.do.co/c/2a9bba940f39)
 
 ### 👩‍💻 DevDojo
 
@@ -96,7 +96,7 @@ A web page showcasing the eBook:
 
 [Introduction to Bash Scripting Web Page](https://ebook.bobby.sh/)
 
-The web page was built using [Tails](http://devdojo.com/tails), a new `kick-ass` drag-and-drop TailwindCSS page builder!
+The web page was built using [Tails](https://devdojo.com/tails), a new `kick-ass` drag-and-drop TailwindCSS page builder!
 
 ### DigitalOcean App Platform
 
@@ -143,7 +143,7 @@ If you ever need to create a graphic, poster, invitation, logo, presentation –
 - [Join DevDojo](https://devdojo.com?ref=bobbyiliev)
 - [Ibis](https://github.com/themsaid/ibis/)
 - [Canva](https://www.canva.com/)
-- [Tails](http://devdojo.com/tails)
+- [Tails](https://devdojo.com/tails)
 
 ## 📖 Other eBooks
 
